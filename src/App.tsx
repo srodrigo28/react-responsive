@@ -1,9 +1,9 @@
-import { Header } from "./Header.tsx"
+import { Login } from "./Login/index.tsx"
 
 function App() {
 
   return (
-    <Header />
+    <Login />
   )
 }
 
