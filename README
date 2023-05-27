@@ -1,0 +1,26 @@
+### Criação do projeto
+* comando de criação
+```sh
+    npm create vite@latest
+```
+
+* entrar na pasta do projeto e executar
+```sh
+    npm install
+```
+
+* rodar o projeto
+```sh
+    npm run dev
+```
+
+### dependências
+* React Styled-components para trabalhar as estlizações
+```sh
+    npm install styled-components@latest @types/styled-components
+```
+* React Icones com react
+```sh
+    npm install react-icons @types/react-icons
+```
+
